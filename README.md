@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanmay-weezzee-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-weezzee-sharma" height="30" width="40" /></a>
+<a href="mailto:tanmaysharma43@gmail.com"><img align="center" src="https://github.com/tanmaysharma1337/tanmaysharma1337/assets/159008441/82df21bc-8245-48a2-8df8-d9038c65e726" alt="tanmay-weezzee-sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
